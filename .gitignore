@@ -1,0 +1,12 @@
+*.class
+*.pyc
+*.jar
+*.log
+*.out
+*.swp
+*.iml
+target/
+.idea/
+__pycache__/
+venv/
+.DS_Store
