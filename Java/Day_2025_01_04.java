@@ -1,3 +1,4 @@
+//link: https://leetcode.com/problems/two-sum/
 class Solution {
     // brute force
     public int[] twoSum(int[] nums, int target) {
