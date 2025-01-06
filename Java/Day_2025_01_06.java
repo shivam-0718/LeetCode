@@ -18,7 +18,6 @@ class Solution {
 }
 
 public class Day_2025_01_06 {
-
     public static void main(String[] args) {
         Solution sol = new Solution();
         int[] answer = sol.minOperations("001011");
