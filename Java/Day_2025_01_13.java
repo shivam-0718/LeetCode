@@ -1,6 +1,5 @@
 //link: https://leetcode.com/problems/minimum-length-of-string-after-operations/description/
-//Good question
-
+//Good question.
 import java.util.HashMap;
 import java.util.Map;
 
@@ -26,7 +25,6 @@ class Solution {
                 s_length += 2;
             }
         }
-
         return s_length;
     }
 }
