@@ -5,6 +5,7 @@
 This repository is dedicated to my solutions solved on Leetcode. The primary goal of this repository is to enhance my understanding and proficiency in Data Structures and Algorithms (DSA) by solving problems from different platforms like Neetcode, Striver on Leetcode. By solving these problems, I aim to develop a deeper insight into efficient coding practices and problem-solving techniques. Currently, all solutions are implemented using the Java programming language.
 
 Roadmap: [NeetCode](https://www.neetcode.io), [Striver's DSA Sheet](https://takeuforward.org/)
+Platform: [LeetCode](https://www.leetcode.com)
 
 ## File Structure
 
@@ -19,10 +20,10 @@ Striver/
 
 ## Details
 
-| Sr no | Concept | Description                             | Difficulty | Solution Link | Date       | Learnings                            |
-| :---- | :------ | :-------------------------------------- | :--------- | :------------ | :--------- | :----------------------------------- |
-| 1     | String  | Maximum Scores after splitting a String | Medium     | [Here]()      | 1 Jan 2024 | toCharArray(), substring(), charAt() |
-| 2     | Sorting | MergeSort Implementation                | Medium     | [Here]()      | 2024       | Mastering divide and conquer         |
+| Sr no | Concept | Description                             | Difficulty | Solution Link | Date       | Learnings                                            |
+| :---- | :------ | :-------------------------------------- | :--------- | :------------ | :--------- | :--------------------------------------------------- |
+| 1     | String  | Maximum Scores after splitting a String | Medium     | [Here]()      | 1 Jan 2024 | toCharArray(), substring(), charAt(), 2 pointer form |
+| 2     | Arrays  | Contains duplicate                      | Easy       | [Here]()      | 2 Jan 2024 | Sorting of Arrays                                    |
 
 ## Contributing
 
