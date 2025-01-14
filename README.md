@@ -4,14 +4,17 @@
 
 This repository contains my solutions to LeetCode problems. I am practicing LeetCode questions to improve my Data Structures and Algorithms (DSA) knowledge. The solutions are organized by programming language. 
 
-Roadmap: [NeetCode](https://www.neetcode.io)
+Roadmap: [NeetCode](https://www.neetcode.io), [Striver's DSA Sheet](https://takeuforward.org/)
 
 ## File Structure
 
 ```
 LeetCode/
 ├── Java/
-└── Python/
+
+Striver/
+├── Java/
+
 ```
 
 ## Important Topics
