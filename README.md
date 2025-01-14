@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains my solutions to LeetCode problems. I am practicing LeetCode questions to improve my Data Structures and Algorithms (DSA) knowledge. The solutions are organized by programming language. 
+This repository is dedicated to my solutions solved on Leetcode. The primary goal of this repository is to enhance my understanding and proficiency in Data Structures and Algorithms (DSA) by solving problems from different platforms like Neetcode, Striver on Leetcode. By solving these problems, I aim to develop a deeper insight into efficient coding practices and problem-solving techniques. Currently, all solutions are implemented using the Java programming language.
 
 Roadmap: [NeetCode](https://www.neetcode.io), [Striver's DSA Sheet](https://takeuforward.org/)
 
@@ -13,16 +13,16 @@ LeetCode/
 ├── Java/
 
 Striver/
-├── Java/
+├── Java/ (Will be started soon)
 
 ```
 
-## Important Topics
+## Details
 
-| Topic   | Rating     | Question                 | Solution Link | Date |
-| :------ | :--------- | :----------------------- | :------------ | :--- |
-| Sorting | Sorting-I  | QuickSort Implementation | [Here]()      | 2024 |
-| Sorting | Sorting-II | MergeSort Implementation | [Here]()      | 2024 |
+| Sr no | Concept | Description                             | Difficulty | Solution Link | Date       | Learnings                            |
+| :---- | :------ | :-------------------------------------- | :--------- | :------------ | :--------- | :----------------------------------- |
+| 1     | String  | Maximum Scores after splitting a String | Medium     | [Here]()      | 1 Jan 2024 | toCharArray(), substring(), charAt() |
+| 2     | Sorting | MergeSort Implementation                | Medium     | [Here]()      | 2024       | Mastering divide and conquer         |
 
 ## Contributing
 
