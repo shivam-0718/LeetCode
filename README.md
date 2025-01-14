@@ -23,9 +23,11 @@ Striver/
 | Sr no | Concept | Description                             | Difficulty | Solution Link | Date       | Learnings                                            |
 | :---- | :------ | :-------------------------------------- | :--------- | :------------ | :--------- | :--------------------------------------------------- |
 | 1     | String  | Maximum Scores after splitting a String | Medium     | [Here]()      | 1 Jan 2024 | toCharArray(), substring(), charAt(), 2 pointer form |
-| 2     | Arrays  | Contains duplicate                      | Easy       | [Here]()      | 2 Jan 2024 | Sorting of Arrays                                    |
+| 2     | Arrays  | Contains duplicate                      | Easy       | [Here]()      | 2 Jan 2024 | Sorting of Arrays through Arrays.sort()              |
 | 3     | Arrays  | Ways to split array                     | Medium     | [Here]()      | 3 Jan 2024 | Partition of arrays into 2 parts, one pointer form   |
-| 4     | Arrays  | Two Sum                     | Easy     | [Here]()      | 4 Jan 2024 | Learning of HashSet, HashMap   |
+| 4     | Arrays  | Two Sum                                 | Easy       | [Here]()      | 4 Jan 2024 | Learning of HashSet, HashMap                         |
+| 5     | String  | Valid Anagrams                          | Easy       | [Here]()      | 5 Jan 2024 | toCharArray(), Arrays.sort()                         |
+| 6     | String  | Valid Anagrams                          | Easy       | [Here]()      | 5 Jan 2024 | toCharArray(), Arrays.sort()                         |
 
 ## Contributing
 
